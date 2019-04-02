@@ -13,7 +13,7 @@ def my_select(collection)
 end
 =end
 
-def my_select(array) 
+def my_select(array)
 count = 0
 result = []
 
